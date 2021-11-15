@@ -1,0 +1,89 @@
+[33mcommit 52c3953f17a5daf81c81c1a42d9e03818a18bc88[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 15:33:20 2021 +0500
+
+    Added standard HTML page tags
+
+[33mcommit b4221e27279cd1562aa012f4686000cad2baa0b2[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 15:27:06 2021 +0500
+
+    Rename hello file to lib
+
+[33mcommit a90d2b0d99e2d92d943f9ef6091f21b570e212b9[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 15:20:19 2021 +0500
+
+    Add file hello
+
+[33mcommit 60bd815f931483c21def823eb953db9e115b1542[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 15:15:16 2021 +0500
+
+    Delete foldes
+
+[33mcommit 81978ab7550aff4c7b3d8b1e3fa0b2f8a089bf36[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 05:16:44 2021 +0500
+
+    Editing index.html
+
+[33mcommit b0b3e6b32280ee2e889d9146a5cfbeecf879a74a[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 05:15:02 2021 +0500
+
+    Lazy
+
+[33mcommit b558cb0575ec7976742901e122d3c389cf3e023c[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 05:12:16 2021 +0500
+
+    Moved file index.html
+
+[33mcommit 4b6c4eebf1a046e593b4ec83889d2f3e540e8106[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 05:11:18 2021 +0500
+
+    Editing index.html file
+
+[33mcommit cfff8bb3d00c785ebae83d700f8f3d551e1b6b12[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 05:08:07 2021 +0500
+
+    Move hello.html to works
+
+[33mcommit 139f8b1387e4fd9f92530a3bd1a2a811ceae8484[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 04:26:53 2021 +0500
+
+    New editing README.md file
+
+[33mcommit 161894d8a0cafba70e58b93cb540bccc2f26b9e7[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 04:22:22 2021 +0500
+
+    Editing readme.md file
+
+[33mcommit 36b046b6125c6f1b3b2fcd079f4d654731e6d825[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 04:19:57 2021 +0500
+
+    Editing html file
+
+[33mcommit 4a36ae37fa19a66b31b7b1c1bfb6a6c2f1ea96fb[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 04:18:00 2021 +0500
+
+    Standart structure file
+
+[33mcommit 27a390a51c32b59e038823fee977d36f200f9435[m
+Author: Ильяс Илимбаев <ilyas.ilimbaev@yandex.ru>
+Date:   Mon Nov 15 02:29:07 2021 +0500
+
+    dELETE master branch
+
+[33mcommit 42a967b3573e5041b24ced355c2494fee75c1b61[m
+Author: Ильяс Илимбаев <ilyasilimbaev@yandex.ru>
+Date:   Mon Nov 15 01:20:53 2021 +0500
+
+    Initial commit
